@@ -1,0 +1,15 @@
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/Task29.csproj.AssemblyReference.cache
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/Task29.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/Task29.AssemblyInfoInputs.cache
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/Task29.AssemblyInfo.cs
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/Task29.csproj.CoreCompileInputs.cache
+/Users/dagorbacheva/Desktop/Homework004/Task29/bin/Debug/net6.0/Task29
+/Users/dagorbacheva/Desktop/Homework004/Task29/bin/Debug/net6.0/Task29.deps.json
+/Users/dagorbacheva/Desktop/Homework004/Task29/bin/Debug/net6.0/Task29.runtimeconfig.json
+/Users/dagorbacheva/Desktop/Homework004/Task29/bin/Debug/net6.0/Task29.dll
+/Users/dagorbacheva/Desktop/Homework004/Task29/bin/Debug/net6.0/Task29.pdb
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/Task29.dll
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/refint/Task29.dll
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/Task29.pdb
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/Task29.genruntimeconfig.cache
+/Users/dagorbacheva/Desktop/Homework004/Task29/obj/Debug/net6.0/ref/Task29.dll
